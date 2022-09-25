@@ -1,0 +1,15 @@
+C:\Users\dfazy\Desktop\GB\GIT\ConsoleApp\Д.З_1_С#\bin\Debug\net6.0\Д.З_1_С#.exe
+C:\Users\dfazy\Desktop\GB\GIT\ConsoleApp\Д.З_1_С#\bin\Debug\net6.0\Д.З_1_С#.deps.json
+C:\Users\dfazy\Desktop\GB\GIT\ConsoleApp\Д.З_1_С#\bin\Debug\net6.0\Д.З_1_С#.runtimeconfig.json
+C:\Users\dfazy\Desktop\GB\GIT\ConsoleApp\Д.З_1_С#\bin\Debug\net6.0\Д.З_1_С#.dll
+C:\Users\dfazy\Desktop\GB\GIT\ConsoleApp\Д.З_1_С#\bin\Debug\net6.0\Д.З_1_С#.pdb
+C:\Users\dfazy\Desktop\GB\GIT\ConsoleApp\Д.З_1_С#\obj\Debug\net6.0\Д.З_1_С#.csproj.AssemblyReference.cache
+C:\Users\dfazy\Desktop\GB\GIT\ConsoleApp\Д.З_1_С#\obj\Debug\net6.0\Д.З_1_С#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dfazy\Desktop\GB\GIT\ConsoleApp\Д.З_1_С#\obj\Debug\net6.0\Д.З_1_С#.AssemblyInfoInputs.cache
+C:\Users\dfazy\Desktop\GB\GIT\ConsoleApp\Д.З_1_С#\obj\Debug\net6.0\Д.З_1_С#.AssemblyInfo.cs
+C:\Users\dfazy\Desktop\GB\GIT\ConsoleApp\Д.З_1_С#\obj\Debug\net6.0\Д.З_1_С#.csproj.CoreCompileInputs.cache
+C:\Users\dfazy\Desktop\GB\GIT\ConsoleApp\Д.З_1_С#\obj\Debug\net6.0\Д.З_1_С#.dll
+C:\Users\dfazy\Desktop\GB\GIT\ConsoleApp\Д.З_1_С#\obj\Debug\net6.0\refint\Д.З_1_С#.dll
+C:\Users\dfazy\Desktop\GB\GIT\ConsoleApp\Д.З_1_С#\obj\Debug\net6.0\Д.З_1_С#.pdb
+C:\Users\dfazy\Desktop\GB\GIT\ConsoleApp\Д.З_1_С#\obj\Debug\net6.0\Д.З_1_С#.genruntimeconfig.cache
+C:\Users\dfazy\Desktop\GB\GIT\ConsoleApp\Д.З_1_С#\obj\Debug\net6.0\ref\Д.З_1_С#.dll
